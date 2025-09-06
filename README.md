@@ -1,5 +1,4 @@
-# Unity 3D Movement Template
-
+# Unity 3D Movement
 Template simple buat **Movement 3D** di Unity dengan **2 Scene terpisah**:
 -  Scene First Person (First Person View)
 -  Scene Third Person (Third Person View)
