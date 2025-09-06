@@ -1,10 +1,10 @@
 # Unity 3D Movement Template
 
 Template simple buat **Movement 3D** di Unity dengan **2 Scene terpisah**:
-- ✅ Scene First Person (First Person View)
-- ✅ Scene Third Person (Third Person View)
-- ✅ Walk / Run
-- ✅ Jump
+-  Scene First Person (First Person View)
+-  Scene Third Person (Third Person View)
+-  Walk / Run
+-  Jump
 - Camera Mengikuti Player (Third Person View)
 
 Kalian bisa pakai template ini buat belajar dasar FPV & TPV sekaligus, tinggal pilih scene yang mau dijalankan.
