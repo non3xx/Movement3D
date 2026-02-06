@@ -23,13 +23,6 @@ Kalian bisa pakai template ini buat belajar dasar FPV & TPV sekaligus, tinggal p
 
 ---
 
-## Setup Project
-1. Buat folder `Scenes/` lalu bikin 2 scene:
-   - `FirstPCamera`
-   - `ThirdPCamera`
-2. Buat folder `Scripts/` untuk semua script.
----
-
 ## Animator Setup (Untuk TPV)
 - Parameter:
   - `float Speed`
